@@ -117,3 +117,18 @@ export const CirclePlus = styled(CirclePlusIcon)`
 	width: 30px;
 	height: 30px;
 `
+
+export const Footer = styled.div`
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-item:center;
+		background-color: rgba(240, 248, 255, 0.6);
+`
+export const Pfooter = styled.p`
+font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+
+
+
+`
