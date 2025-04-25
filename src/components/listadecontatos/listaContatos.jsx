@@ -12,7 +12,9 @@ import {
 	Menutexto,
 	ConteinerAdicionar,
 	MenuBtn,
-	CirclePlus
+	CirclePlus,
+	Footer,
+	Pfooter
 } from './styles'
 
 import { REMOVE_CONTATO } from '../../redux/types'
@@ -69,9 +71,9 @@ function ListaNomesContatos() {
 					<Menutexto>Adicionar</Menutexto>
 				</ConteinerAdicionar>
 			</Agendaconteiner>
-			<div>
-					<p> CRIADO POR DIEGO BARRADO PARA  ESTUDOS</p>
-		</div>
+			<Footer>
+					<Pfooter> CRIADO POR DIEGO BARRADO PARA  ESTUDOS</Pfooter>
+		</Footer>
 			</>
 
 	)
