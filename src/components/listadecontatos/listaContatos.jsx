@@ -70,6 +70,7 @@ function ListaNomesContatos() {
 				</ConteinerAdicionar>
 			</Agendaconteiner>
 		</>
+		<p> CRIADO POR DIEGO BARRADO PARA  ESTUDOS</p>
 	)
 }
 
