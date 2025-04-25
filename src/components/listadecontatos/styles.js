@@ -123,7 +123,8 @@ export const Footer = styled.div`
 	flex-direction: column;
 	justify-content: center;
 	align-item:center;
-		background-color: rgba(240, 248, 255, 0.6);
+		background-color: rgba(240, 248, 255, 1.0);
+			margin-top: 10px;
 `
 export const Pfooter = styled.p`
 font-family: 'Raleway', sans-serif;
